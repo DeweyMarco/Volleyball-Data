@@ -1,5 +1,5 @@
 # NCAA Games
-This is a collection of Random NCAA Volleyabll games for the purpose of determining the percetage chance a team has to win a match for a given score. 
+This is a collection of Random NCAA volleyball games to determine the percentage chance a team has to win a match for a given score. 
 
 
 ## Usage
