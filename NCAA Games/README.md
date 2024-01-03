@@ -1,11 +1,29 @@
 # NCAA Games
-
+This is a collection of Random NCAA Volleyabll games for the purpose of determining the percetage chance a team has to win a match for a given score. 
 
 
 ## Usage
+
+To use this application you must be able to run Python 3.8
+
+The following must be installed.
+
+```bash
+pip install pandas
+pip install numpy
+pip install matplotlib
+```
+
+### Generating the odds table
 ```python
 python3 read_wins.py
 ```
+
+### Reading in more games. 
+```python
+python3 read_urls.py
+```
+Then cut and paste the games into the correct folder. 
 
 ## Womens Teams Covered
 - Texas (NCAA Womens 2023)
