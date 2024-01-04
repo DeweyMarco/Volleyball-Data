@@ -25,6 +25,15 @@ python3 read_urls.py
 ```
 Then cut and paste the games into the correct folder. 
 
+## DataFrame Format
+```python
+my_score,opponent_score,win
+0,0,True
+1,0,True
+...
+25,22,True
+```
+
 ## Womens Teams Covered
 - Texas (NCAA Womens 2023)
 - Denver (NCAA Womens 2023)
