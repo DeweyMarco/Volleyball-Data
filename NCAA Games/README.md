@@ -34,6 +34,11 @@ my_score,opponent_score,win
 25,22,True
 ```
 
+## Output
+
+![alt text](https://github.com/DeweyMarco/Volleyball-Data/tree/main/NCAA%20Games/10706.png?raw=true)
+
+
 ## Womans Teams Covered
 - Texas (NCAA Womens 2023)
 - Denver (NCAA Womens 2023)
