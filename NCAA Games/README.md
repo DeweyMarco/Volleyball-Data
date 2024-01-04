@@ -1,7 +1,6 @@
 # NCAA Games
 This is a collection of Random NCAA volleyball games to determine the percentage chance a team has to win a match for a given score. 
 
-
 ## Usage
 
 To use this application you must be able to run Python 3.8
@@ -25,7 +24,17 @@ python3 read_urls.py
 ```
 Then cut and paste the games into the correct folder. 
 
-## Womens Teams Covered
+## DataFrame Format
+Each game is captured in a DataFrame in the following format (my team's score, the opponent's score, and if my team won the game) 
+```python
+my_score,opponent_score,win
+0,0,True
+1,0,True
+...
+25,22,True
+```
+
+## Womans Teams Covered
 - Texas (NCAA Womens 2023)
 - Denver (NCAA Womens 2023)
 - Colorado (NCAA Womens 2023)
