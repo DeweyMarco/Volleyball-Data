@@ -6,6 +6,9 @@ point_percentage = 0.5
 def set_point_percentage(pp):
     global point_percentage
     point_percentage = pp
+    
+def set_serve(s):
+    return
 
 def point():
     turn = np.random.uniform(0,1)
