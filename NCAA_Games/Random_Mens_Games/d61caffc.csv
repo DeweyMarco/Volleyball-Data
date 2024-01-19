@@ -1,0 +1,11 @@
+my_score,opponent_score,win
+0,0,False
+0,1,False
+0,2,False
+0,3,False
+0,4,False
+0,5,False
+1,5,False
+1,6,False
+1,7,False
+2,7,False
