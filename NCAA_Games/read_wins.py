@@ -3,7 +3,6 @@ import numpy as np
 import sys
 import os
 import matplotlib.pyplot as plt
-import matplotlib.pyplot as plt
 from matplotlib.colors import LogNorm
 
 num_sets = 0

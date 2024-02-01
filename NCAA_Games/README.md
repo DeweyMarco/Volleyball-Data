@@ -94,7 +94,7 @@ my_score,opponent_score,win
 - Agnes Scott (NCAA Womens 2023)
 - Paine College (NCAA Womens 2023)
 - Gustavus Adolphus College (NCAA Womens 2023)
-- Bethel University (NCAA Womens 2023)
+- Bethel University (NAIA Womens 2023)
 
 ## Mens Teams Covered
 - Ottawa (NAIA Mens 2022)
@@ -111,6 +111,13 @@ my_score,opponent_score,win
 - Simpson (NAIA Mens 2023)
 - California Lutheran University (NAIA Mens 2022)
 - California Lutheran University (NAIA Mens 2023)
+- Campbellsville University (NAIA Mens 2022)
+- Campbellsville University (NAIA Mens 2023)
+- Webber International University (NAIA Mens 2022) 
+- Webber International University (NAIA Mens 2023)
+- Lawrence Tech (NAIA Mens 2022)
+- Lawrence Tech (NAIA Mens 2023)
+- Bethel University (NAIA Mens 2023)
 - UC Irvine (NCAA Mens 2022)
 - UC Irvine (NCAA Mens 2023)
 - Harvard (NCAA Mens 2022)
@@ -154,3 +161,5 @@ my_score,opponent_score,win
 - Saint Mary-of-the-Woods College (NCAA Mens 2023)
 - North Greenville (NCAA Mens 2022)
 - North Greenville (NCAA Mens 2023)
+- Missouri S&T (NCAA Mens 2023)
+
