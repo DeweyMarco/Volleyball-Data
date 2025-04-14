@@ -2,7 +2,7 @@ import numpy as np
 import sys
 
 trials = 10000
-season_length = 26
+season_length = 30
 threshold = 12
 point_percentage = 0.5455915599095704
 sets_played = [0,0,0,0,0,0]
